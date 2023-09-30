@@ -1,8 +1,124 @@
 {
   "version": 2,
-  "dgSpecHash": "Nl90ryONxrSiTU36JFy3tFezI+kz2d/tXaL2f7QHRBMJnpBCaTtSwJ0wRgNY/y123frTJdJOG6w8t+RcJeSXzA==",
+  "dgSpecHash": "0Qk3qABHQ/5o2YqzY7pV0atJxpAVYjXq428skdsqQb1rx6imp3ZtBGgyRtAoKcO9sIQM/Ke97QMZX0aOpDz2fQ==",
   "success": true,
   "projectFilePath": "/Users/omarshishani/Coding/react-dotnet/react-dotnet/react-dotnet/react-dotnet.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "/Users/omarshishani/.nuget/packages/advancedstringbuilder/0.1.0/advancedstringbuilder.0.1.0.nupkg.sha512",
+    "/Users/omarshishani/.nuget/packages/javascriptengineswitcher.core/3.1.0/javascriptengineswitcher.core.3.1.0.nupkg.sha512",
+    "/Users/omarshishani/.nuget/packages/jspool/4.0.0/jspool.4.0.0.nupkg.sha512",
+    "/Users/omarshishani/.nuget/packages/microsoft.aspnet.mvc/4.0.40804/microsoft.aspnet.mvc.4.0.40804.nupkg.sha512",
+    "/Users/omarshishani/.nuget/packages/microsoft.aspnet.razor/2.0.20710/microsoft.aspnet.razor.2.0.20710.nupkg.sha512",
+    "/Users/omarshishani/.nuget/packages/microsoft.aspnet.webpages/2.0.20710/microsoft.aspnet.webpages.2.0.20710.nupkg.sha512",
+    "/Users/omarshishani/.nuget/packages/microsoft.dotnet.platformabstractions/2.1.0/microsoft.dotnet.platformabstractions.2.1.0.nupkg.sha512",
+    "/Users/omarshishani/.nuget/packages/microsoft.extensions.dependencymodel/2.1.0/microsoft.extensions.dependencymodel.2.1.0.nupkg.sha512",
+    "/Users/omarshishani/.nuget/packages/microsoft.netcore.platforms/1.0.1/microsoft.netcore.platforms.1.0.1.nupkg.sha512",
+    "/Users/omarshishani/.nuget/packages/microsoft.netcore.targets/1.0.1/microsoft.netcore.targets.1.0.1.nupkg.sha512",
+    "/Users/omarshishani/.nuget/packages/microsoft.web.infrastructure/1.0.0/microsoft.web.infrastructure.1.0.0.nupkg.sha512",
+    "/Users/omarshishani/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/omarshishani/.nuget/packages/react.core/5.2.12/react.core.5.2.12.nupkg.sha512",
+    "/Users/omarshishani/.nuget/packages/react.web/5.2.12/react.web.5.2.12.nupkg.sha512",
+    "/Users/omarshishani/.nuget/packages/react.web.mvc4/5.2.12/react.web.mvc4.5.2.12.nupkg.sha512",
+    "/Users/omarshishani/.nuget/packages/runtime.native.system/4.0.0/runtime.native.system.4.0.0.nupkg.sha512",
+    "/Users/omarshishani/.nuget/packages/system.appcontext/4.1.0/system.appcontext.4.1.0.nupkg.sha512",
+    "/Users/omarshishani/.nuget/packages/system.collections/4.0.11/system.collections.4.0.11.nupkg.sha512",
+    "/Users/omarshishani/.nuget/packages/system.diagnostics.debug/4.0.11/system.diagnostics.debug.4.0.11.nupkg.sha512",
+    "/Users/omarshishani/.nuget/packages/system.dynamic.runtime/4.0.11/system.dynamic.runtime.4.0.11.nupkg.sha512",
+    "/Users/omarshishani/.nuget/packages/system.globalization/4.0.11/system.globalization.4.0.11.nupkg.sha512",
+    "/Users/omarshishani/.nuget/packages/system.io/4.1.0/system.io.4.1.0.nupkg.sha512",
+    "/Users/omarshishani/.nuget/packages/system.io.filesystem/4.0.1/system.io.filesystem.4.0.1.nupkg.sha512",
+    "/Users/omarshishani/.nuget/packages/system.io.filesystem.primitives/4.0.1/system.io.filesystem.primitives.4.0.1.nupkg.sha512",
+    "/Users/omarshishani/.nuget/packages/system.linq/4.1.0/system.linq.4.1.0.nupkg.sha512",
+    "/Users/omarshishani/.nuget/packages/system.linq.expressions/4.1.0/system.linq.expressions.4.1.0.nupkg.sha512",
+    "/Users/omarshishani/.nuget/packages/system.objectmodel/4.0.12/system.objectmodel.4.0.12.nupkg.sha512",
+    "/Users/omarshishani/.nuget/packages/system.reflection/4.1.0/system.reflection.4.1.0.nupkg.sha512",
+    "/Users/omarshishani/.nuget/packages/system.reflection.emit/4.0.1/system.reflection.emit.4.0.1.nupkg.sha512",
+    "/Users/omarshishani/.nuget/packages/system.reflection.emit.ilgeneration/4.0.1/system.reflection.emit.ilgeneration.4.0.1.nupkg.sha512",
+    "/Users/omarshishani/.nuget/packages/system.reflection.emit.lightweight/4.0.1/system.reflection.emit.lightweight.4.0.1.nupkg.sha512",
+    "/Users/omarshishani/.nuget/packages/system.reflection.extensions/4.0.1/system.reflection.extensions.4.0.1.nupkg.sha512",
+    "/Users/omarshishani/.nuget/packages/system.reflection.primitives/4.0.1/system.reflection.primitives.4.0.1.nupkg.sha512",
+    "/Users/omarshishani/.nuget/packages/system.reflection.typeextensions/4.1.0/system.reflection.typeextensions.4.1.0.nupkg.sha512",
+    "/Users/omarshishani/.nuget/packages/system.resources.resourcemanager/4.0.1/system.resources.resourcemanager.4.0.1.nupkg.sha512",
+    "/Users/omarshishani/.nuget/packages/system.runtime/4.1.0/system.runtime.4.1.0.nupkg.sha512",
+    "/Users/omarshishani/.nuget/packages/system.runtime.extensions/4.1.0/system.runtime.extensions.4.1.0.nupkg.sha512",
+    "/Users/omarshishani/.nuget/packages/system.runtime.handles/4.0.1/system.runtime.handles.4.0.1.nupkg.sha512",
+    "/Users/omarshishani/.nuget/packages/system.runtime.interopservices/4.1.0/system.runtime.interopservices.4.1.0.nupkg.sha512",
+    "/Users/omarshishani/.nuget/packages/system.runtime.interopservices.runtimeinformation/4.0.0/system.runtime.interopservices.runtimeinformation.4.0.0.nupkg.sha512",
+    "/Users/omarshishani/.nuget/packages/system.text.encoding/4.0.11/system.text.encoding.4.0.11.nupkg.sha512",
+    "/Users/omarshishani/.nuget/packages/system.threading/4.0.11/system.threading.4.0.11.nupkg.sha512",
+    "/Users/omarshishani/.nuget/packages/system.threading.tasks/4.0.11/system.threading.tasks.4.0.11.nupkg.sha512",
+    "/Users/omarshishani/.nuget/packages/webactivatorex/2.2.0/webactivatorex.2.2.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.AspNet.Mvc 4.0.40804' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.AspNet.Mvc",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.AspNet.Razor 2.0.20710' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.AspNet.Razor",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.AspNet.WebPages 2.0.20710' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.AspNet.WebPages",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Web.Infrastructure 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.Web.Infrastructure",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'React.Web 5.2.12' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "React.Web",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'React.Web.Mvc4 5.2.12' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "React.Web.Mvc4",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'WebActivatorEx 2.2.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "WebActivatorEx",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

@@ -7,4 +7,7 @@
     <RootNamespace>react_dotnet</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="React.Web.Mvc4" Version="5.2.12" />
+  </ItemGroup>
 </Project>

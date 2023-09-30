@@ -37,6 +37,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "React.Web.Mvc4": {
+              "target": "Package",
+              "version": "[5.2.12, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
